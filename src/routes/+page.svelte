@@ -164,6 +164,10 @@
         margin-top: 1rem;
         margin-bottom: 1rem;
         }
+        .CONTACT{
+        padding-top: 1rem;
+        padding-bottom: 1rem;
 
+        }
     }
 </style>
