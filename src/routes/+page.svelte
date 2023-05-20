@@ -169,5 +169,13 @@
         padding-bottom: 1rem;
 
         }
+        .COURSES .row{
+            padding-top: 1rem;
+            padding-bottom: 1rem;
+        }
+        .COURSES .col-lg-6{
+            padding-top: 1rem;
+            padding-bottom: 1rem;
+        }
     }
 </style>
