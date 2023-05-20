@@ -8,7 +8,7 @@
           <a class="navbar-brand" href="#"><img src="/media/images/nav-logo.png" alt=""></a>
           <h3 class="NAV-TITLE">CloudMaster</h3>
           <button style="background-color:white" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-            <span style="color:white;" class="navbar-toggler-icon"></span>
+            <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav  ms-auto">
@@ -54,6 +54,9 @@
     .NAV-TITLE{
         color: white;
         font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    .navbar-toggler-icon{
+        color: #1299f3;
     }
     @media (max-width: 767px) {
         nav h3{
